@@ -10,14 +10,13 @@ Je suis également actif dans mon association sportive et j'adore organiser des 
 ## 🛠️ Tools and Languages
 
 ### 🌐 Langages
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=for-the-badge)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30px" align="left" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30px" align="left" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px" align="left" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="30px" align="left" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30px" align="left" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30px" align="left" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="30px" align="left" style="padding-right:10px;"/>
 
 ### ⚙️ Outils
 
@@ -27,17 +26,8 @@ Je suis également actif dans mon association sportive et j'adore organiser des 
 - **Systèmes d'exploitation**: Ubuntu, Windows (Dual Boot)
 - **Frameworks & Outils associés**: Vite.js, Vue Router, Bash scripting
 
----
-
-## 🚀 Projets récents
-- **[Projet Vue.js](https://github.com/ton-repo)** : Une application web moderne avec Vue 3 et Vue Router.
-- **TP en C** : Développement et compilation de programmes multi-fichiers.
-- **Machine virtuelle** : Migration entre Windows et Ubuntu.
-
----
-
 ## 📫 Contactez-moi
-- **E-mail** : charles.mendiburu@example.com  
-- **LinkedIn** : [LinkedIn de Charles](https://www.linkedin.com/in/charles-mendiburu/)  
+- **E-mail** : charles.mendi1609@gmail.com ou charles.mendiburu@etu.cyu.fr  
+- **LinkedIn** : [LinkedIn de Charles](https://www.linkedin.com/in/charles-mendiburu-606725300/)  
 
 Merci de visiter mon profil GitHub et n'hésitez pas à explorer mes projets ! 😊
