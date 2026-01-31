@@ -2,7 +2,7 @@
 
 ## 👋 Présentation
 
-Bonjour ! Je suis Charles Mendiburu, étudiant en 3ème année d'école d'ingénieur en informatique. Passionné par la technologie, le développement web, et l'innovation, je travaille sur des projets variés allant du développement logiciel à l'intelligence artificielle.  
+Bonjour ! Je suis Charles Mendiburu, étudiant en 4ème année d'école d'ingénieur en informatique. Passionné par la technologie, le cybersécurité, et l'innovation, je travaille sur des projets variés allant du développement logiciel à l'intelligence artificielle.  
 Je suis également actif dans mon association sportive et j'adore organiser des événements !
 
 ---
